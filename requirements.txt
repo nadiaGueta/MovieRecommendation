@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy==1.26.4
+scikit-learn
+scikit-surprise
+
+python-multipart
